@@ -17,3 +17,6 @@ He completado mis prácticas en **CodeArts Solutions**, especializándome en aut
 🚀 **Proyectos destacados:**
 * **Gestor Académico Enterprise:** Aplicación de escritorio completa para gestión de cursos y alumnos con Python y SQLite.
 * **Laboratorio DevOps:** Despliegue de servicios corporativos (VPN, Proxy, Correo) en Ubuntu Server.
+
+📫 **Contáctame:**
+📧 [gomez.dsgu@gmail.com](mailto:gomez.dsgu@gmail.com)
