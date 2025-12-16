@@ -19,4 +19,4 @@ He completado mis prácticas en **CodeArts Solutions**, especializándome en aut
 * **Laboratorio DevOps:** Despliegue de servicios corporativos (VPN, Proxy, Correo) en Ubuntu Server.
 
 📫 **Contáctame:**
-📧 [gomez.dsgu@gmail.com](mailto:gomez.dsgu@gmail.com)
+🤝 [LinkedIn](https://www.linkedin.com/in/dyansgu) | 📧 [gomez.dsgu@gmail.com](mailto:gomez.dsgu@gmail.com)
